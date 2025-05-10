@@ -1,7 +1,6 @@
 # **Win2USB**
 ## Simple script rewrite
 #### Original script didnt work. I just rewrite it. Edited:
-###### - Deleted checking for iso and device
 ###### - Deleted font system
 
 ## Usage:
